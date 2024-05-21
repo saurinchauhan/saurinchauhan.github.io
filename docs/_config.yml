@@ -30,8 +30,8 @@ twitter_username: amdavadicoder
 github_username:  saurin.chauhan
 
 # Build settings
-#theme: minima
-theme: minimal-mistakes-jekyll
+theme: minima
+# theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed

@@ -12,26 +12,26 @@
 
 # theme                    : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saurin Chauhan Personal Website"
+title                    : "Cafe Bytes"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Saurin's Personal website"# site tagline that appears below site title in masthead
 name                     : &name "Saurin Chauhan"
-description              : &description "𑀲𑁅𑀭𑀻𑀦" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Software Engineer, Certified Yoga Instructor,Cyclist. " # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+# teaser                   : "/assets/img/me.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+# logo                     : "/assets/img/me.jpeg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "mlssp" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : *name
+  name             : Saurin Chauhan
   avatar           : "/assets/img/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   avatar-round     : true
   bio              : *description
@@ -156,7 +156,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: posts
       read_time: true
       author_profile: true
       share: true
@@ -191,6 +191,7 @@ defaults:
 include:
   - .htaccess
   - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

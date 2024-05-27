@@ -117,7 +117,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:saurin.chauhan@gmail.com
-    - label: "Schedule a Chat"
+    - label: "Book a meeting"
       icon: "fa fa-fw fa-calendar"
       url: "https://cal.com/saurin"
     - label: "LinkedIn"

@@ -136,15 +136,21 @@ author:
 # Site Footer
 footer:
   links:
-    # - label: "Schedule a Chat"
-    #   icon: "fa fa-fw fa-calendar"
-    #   url: "/calendar/"
-    # - label: "LinkedIn"
-    #   icon: "fab fa-fw fa-linkedin"
-    #   url: "https://www.linkedin.com/in/adaickalavan"
+    - label: "Book a meeting"
+      icon: "fa fa-fw fa-calendar"
+      url: "https://cal.com/saurin"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/saurinchauhan"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/saurinchauhan"
+      url: "https://github.com/saurinchauhan"   
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://saurinchauhan.github.io/"
+    - label: "Twitter"
+      icon: "fas fa-brands fa-x-twitter"
+      url: "https://x.com/amdavadicoder"
 
 defaults:
   # _pages

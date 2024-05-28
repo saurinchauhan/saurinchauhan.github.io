@@ -3,6 +3,7 @@ layout: posts
 title:  "First commit"
 date:   2024-05-23 23:22:37 +0530
 categories: posts
+author: Saurin Chauhan
 ---
 
 So it looks like I found just what I was looking for.

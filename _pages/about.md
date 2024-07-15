@@ -3,8 +3,11 @@ permalink: /about/
 excerpt: "Me"
 ---
 
-I am Saurin Chauhan, a Software Engineer from India. I have B.Eng. Degree in Computer Engineering from Gujarat University. I completed my engineering in 2010.
 
-After completing my Engineering I am working in the IT field for more than 12 years and have vast experience in working with multiple different companies and different domains.
+I am Saurin Chauhan, a seasoned software engineer from India. I earned my B.Eng. degree in Computer Engineering from Gujarat University in 2010. 
 
-My core exprtiese is in building applications using Java and it's related frameworks. I have developed various web applications and Web services using similar technologies. 
+For over 12 years, I have built a robust career in the IT field, gaining extensive experience across various companies and domains.
+
+My expertise lies in crafting applications with Java and its related frameworks. Throughout my career, I have developed numerous web applications and web services, showcasing my proficiency in these technologies. 
+
+My dedication and skill have established me as a reliable professional in the world of software engineering.

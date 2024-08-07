@@ -17,5 +17,12 @@ During the exploration I focused on mainly these 4 things.
 3. Send commands to devices
 4. OTA Updates
 
+Apart from this it has a lot to offer like 
+ - Real time Dashboards
+ - Setting up alerts and notifications
+ - Rule Chain setup 
+ - Device Profiles
+ - Edge Device Management 
+
 Thingsboard also provides tenant based UI access which allows you to manage multiple different clients on same platform setup.
 

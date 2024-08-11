@@ -2,7 +2,7 @@
 layout: posts
 title:  "Affordable Indian Smart Homes"
 date:   2024-08-11 22:03:00 +0530
-categories: iot, cloud, digital, home, smarthome, wireless
+# categories: iot, cloud, digital, home, smarthome, wireless
 author: sc.
 ---
 

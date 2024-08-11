@@ -1,5 +1,5 @@
 ---
-permalink: /posts
+permalink: /posts/
 # layout: default
 excerpt: "Blogs"
 ---

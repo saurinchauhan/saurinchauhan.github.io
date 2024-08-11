@@ -26,3 +26,7 @@ Apart from this it has a lot to offer like
 
 Thingsboard also provides tenant based UI access which allows you to manage multiple different clients on same platform setup.
 
+
+## Device Onboarding
+
+For device onboarding 
